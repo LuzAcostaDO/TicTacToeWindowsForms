@@ -52,7 +52,7 @@ namespace TicTacToeProject
             this.Button1.Tag = "play";
             this.Button1.Text = " ";
             this.Button1.UseVisualStyleBackColor = true;
-            this.Button1.Click += new System.EventHandler(this.PlayerMove);
+            this.Button1.Click += new System.EventHandler(this.Jugada);
             // 
             // Button2
             // 
@@ -64,7 +64,7 @@ namespace TicTacToeProject
             this.Button2.Tag = "play";
             this.Button2.Text = " ";
             this.Button2.UseVisualStyleBackColor = true;
-            this.Button2.Click += new System.EventHandler(this.PlayerMove);
+            this.Button2.Click += new System.EventHandler(this.Jugada);
             // 
             // Button3
             // 
@@ -76,7 +76,7 @@ namespace TicTacToeProject
             this.Button3.Tag = "play";
             this.Button3.Text = " ";
             this.Button3.UseVisualStyleBackColor = true;
-            this.Button3.Click += new System.EventHandler(this.PlayerMove);
+            this.Button3.Click += new System.EventHandler(this.Jugada);
             // 
             // Button4
             // 
@@ -88,7 +88,7 @@ namespace TicTacToeProject
             this.Button4.Tag = "play";
             this.Button4.Text = " ";
             this.Button4.UseVisualStyleBackColor = true;
-            this.Button4.Click += new System.EventHandler(this.PlayerMove);
+            this.Button4.Click += new System.EventHandler(this.Jugada);
             // 
             // Button5
             // 
@@ -100,7 +100,7 @@ namespace TicTacToeProject
             this.Button5.Tag = "play";
             this.Button5.Text = " ";
             this.Button5.UseVisualStyleBackColor = true;
-            this.Button5.Click += new System.EventHandler(this.PlayerMove);
+            this.Button5.Click += new System.EventHandler(this.Jugada);
             // 
             // Button6
             // 
@@ -112,7 +112,7 @@ namespace TicTacToeProject
             this.Button6.Tag = "play";
             this.Button6.Text = " ";
             this.Button6.UseVisualStyleBackColor = true;
-            this.Button6.Click += new System.EventHandler(this.PlayerMove);
+            this.Button6.Click += new System.EventHandler(this.Jugada);
             // 
             // Button7
             // 
@@ -124,7 +124,7 @@ namespace TicTacToeProject
             this.Button7.Tag = "play";
             this.Button7.Text = " ";
             this.Button7.UseVisualStyleBackColor = true;
-            this.Button7.Click += new System.EventHandler(this.PlayerMove);
+            this.Button7.Click += new System.EventHandler(this.Jugada);
             // 
             // Button8
             // 
@@ -136,7 +136,7 @@ namespace TicTacToeProject
             this.Button8.Tag = "play";
             this.Button8.Text = " ";
             this.Button8.UseVisualStyleBackColor = true;
-            this.Button8.Click += new System.EventHandler(this.PlayerMove);
+            this.Button8.Click += new System.EventHandler(this.Jugada);
             // 
             // Button9
             // 
@@ -148,7 +148,7 @@ namespace TicTacToeProject
             this.Button9.Tag = "play";
             this.Button9.Text = " ";
             this.Button9.UseVisualStyleBackColor = true;
-            this.Button9.Click += new System.EventHandler(this.PlayerMove);
+            this.Button9.Click += new System.EventHandler(this.Jugada);
             // 
             // label1
             // 

@@ -23,7 +23,7 @@ namespace TicTacToeProject
         List<Button> cells;
         Random random = new Random();
 
-        private void playerMove(object sender, EventArgs e)
+        private void Jugada(object sender, EventArgs e)
         {
             var button = (Button)sender;
             button.Text = "X";
