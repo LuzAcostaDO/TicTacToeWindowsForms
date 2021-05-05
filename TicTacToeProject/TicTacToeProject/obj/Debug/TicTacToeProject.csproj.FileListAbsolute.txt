@@ -1,0 +1,10 @@
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\bin\Debug\TicTacToeProject.exe.config
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\bin\Debug\TicTacToeProject.exe
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\bin\Debug\TicTacToeProject.pdb
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\TicTacToeProject.csprojAssemblyReference.cache
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\TicTacToeProject.Properties.Resources.resources
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\TicTacToeProject.SinglePlayer.resources
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\TicTacToeProject.csproj.GenerateResource.cache
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\TicTacToeProject.csproj.CoreCompileInputs.cache
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\TicTacToeProject.exe
+C:\Users\luz.acosta\source\repos\TicTacToeProject\TicTacToeProject\obj\Debug\TicTacToeProject.pdb
