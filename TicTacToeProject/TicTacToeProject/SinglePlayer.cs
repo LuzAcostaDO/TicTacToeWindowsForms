@@ -47,7 +47,7 @@ namespace TicTacToeProject
         {
             foreach (Control X in this.Controls)
             {
-                if (X is Button && X.Tag == "play")
+                if (X is Button)
                 {
                     ((Button)X).Text = "";
                 }
